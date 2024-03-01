@@ -1,31 +1,20 @@
-<h1 align="center">Mayank Paliwal</h1>
-<h3 align="center">Data Analyst | Python Developer | AI Enthusiast</h3>
+# 💫 About Me:
+🔭 I'm currently working on developing a Python real-time and share-screen application.<br><br>👯‍♂️ I'm looking to collaborate on projects centered around AI, machine learning, or Python.<br><br>🤝 I'm looking for help with finding professional Python developers who can assist me in landing a job in this field.<br><br>🌱 I'm currently learning about Data Structures and Algorithms (DSA), Natural Language Processing (NLP), and machine learning.<br><br>💭 Ask me about Python development, NLP, ML, and AI.<br><br>⚡ Fun Fact: Python programmers have a unique way of saying hello. They just print("Hello, World!").
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-paliwal-014297189/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-MayankPaliwal-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://github.com/CodeWithMayank-Py" target="_blank"><img src="https://img.shields.io/badge/GitHub-MayankPaliwal-black?logo=github&style=flat-square" alt="GitHub" /></a>
-</p>
 
-<p align="center">👋 Hello, I'm Mayank, a Data Analyst and Python developer with a passion for building elegant solutions with AI and Python on GUI.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-paliwal/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/TheDevMayank)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingcraft?si=_eec_am169avPjk)
 
-<p align="center">💼 As a Data Analyst, I specialize in analyzing and deriving insights from complex datasets to support informed decision-making. I have experience working with various data manipulation, visualization, and statistical analysis techniques.</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p align="center">💻 I'm also proficient in Python development, leveraging its power to create efficient and scalable software solutions. I enjoy building intuitive GUI applications that provide seamless user experiences.</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CodeWithMayank-Py&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMayank-Py&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">🌟 On this page, you will find a collection of code snippets and projects that I share with you. Feel free to utilize any software I provide, as everything is free to use.</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodeWithMayank-Py&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<p align="center">🔬 I love exploring the realm of Artificial Intelligence and leveraging its potential to tackle real-world challenges. From machine learning models to natural language processing algorithms, I'm continuously expanding my knowledge in this exciting field.</p>
-
-<p align="center">📚 Check out my repositories below to find code samples, projects, and resources that showcase my skills and expertise.</p>
-
-<p align="center">🤝 Let's connect and collaborate! If you have any questions, project ideas, or opportunities, feel free to reach out. I'm always excited to engage with fellow data enthusiasts and Python developers.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%E2%9D%A4%EF%B8%8F-blue?logo=python&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-%F0%9F%92%BF-yellow?logo=mysql&style=flat-square" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MS%20Excel-%F0%9F%93%8A-green?logo=microsoftexcel&style=flat-square" alt="MS Excel" />
-  <img src="https://img.shields.io/badge/Tableau-%E2%9C%A8-orange?logo=tableau&style=flat-square" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-%F0%9F%93%88-yellow?logo=powerbi&style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/R-%F0%9F%93%88-blue?logo=r&style=flat-square" alt="R" />
-  <img src="https://img.shields.io/badge/Linux-%F0%9F%90%A7-orange?logo=linux&style=flat-square" alt="Linux" />
-</p>
+---
