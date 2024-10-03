@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently learning and advancing my skills in Django & Backend Engineering.<br><br>👯‍♂️ I'm looking to collaborate on projects centered around AI, machine learning, or Python.<br><br>🤝 I'm looking for help with finding professional Python developers who can assist me in landing a job in this field.<br><br>🌱 I'm currently learning about Data Structures and Algorithms (DSA), Natural Language Processing (NLP), and machine learning.<br><br>💭 Ask me about Python development, NLP, ML, and AI.<br><br>⚡ Fun Fact: Python programmers have a unique way of saying hello. They just print("Hello, World!").
+🔭 I'm currently learning and advancing my skills in Django & Backend Engineering.<br><br>👯‍♂️ I'm looking to collaborate on projects centered around AI, machine learning, or Python.<br><br>🤝 I'm looking for help with finding professional Python developers who can assist me in landing a job in this field.<br><br>🌱 I'm currently learning about Natural Language Processing (NLP), and machine learning.<br><br>💭 Ask me about Python development, NLP, ML, and AI.<br><br>⚡ Fun Fact: Python programmers have a unique way of saying hello. They just print("Hello, World!").
 
 
 ## 🌐 Socials:
